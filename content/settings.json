@@ -1,11 +1,11 @@
 {
-  "store_id": 1052,
-  "name": "My Shop",
-  "domain": "ecomplus-storefront.netlify.app",
-  "short_name": "MyShop",
-  "description": "My PWA Shop",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
+  "store_id": 1093,
+  "name": "ARB info",
+  "domain": "arbinfo.netlify.app",
+  "short_name": "ARB info",
+  "description": "Loja de tecnologia e informática com diversos artigos eletrônicos para promover o bem estar e proporcionar felicidade!",
+  "primary_color": "#1f1c1c",
+  "secondary_color": "#cccccc",
   "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_"
