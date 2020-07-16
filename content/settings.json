@@ -1,22 +1,23 @@
 {
-  "store_id": 1093,
-  "name": "ARB info",
-  "domain": "arbinfo.netlify.app",
-  "short_name": "ARB info",
-  "description": "Loja de tecnologia e informática com diversos artigos eletrônicos para promover o bem estar e proporcionar felicidade!",
-  "primary_color": "#1f1c1c",
-  "secondary_color": "#cccccc",
-  "bg_color": "#ffffff",
+  "domain": "ss",
+  "currency_symbol": "R$",
+  "primary_color": "#bcb8b8",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "sandstone",
+    "custom": "clean-gray"
   },
+  "bg_color": "#cbd813",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "ARB info",
+  "short_name": "ARB info",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
+  "country_code": "BR",
+  "secondary_color": "#cccccc",
+  "icon": "/img/icon.png",
+  "store_id": 1093,
+  "description": "Loja de tecnologia e informática com diversos artigos eletrônicos para promover o bem estar e proporcionar felicidade!",
+  "large_icon": "/img/large-icon.png"
 }
