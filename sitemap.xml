@@ -2,91 +2,91 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://arbinfo.netlify.app/pages/contato</loc>
+      <loc>https://ss/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://arbinfo.netlify.app/pages/entrega</loc>
+      <loc>https://ss/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://arbinfo.netlify.app/pages/faq</loc>
+      <loc>https://ss/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://arbinfo.netlify.app/pages/pagamentos</loc>
+      <loc>https://ss/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://arbinfo.netlify.app/pages/privacidade</loc>
+      <loc>https://ss/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://arbinfo.netlify.app/pages/sobre-nos</loc>
+      <loc>https://ss/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://arbinfo.netlify.app/pages/termos</loc>
+      <loc>https://ss/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://arbinfo.netlify.app/pages/trocas</loc>
+      <loc>https://ss/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://arbinfo.netlify.app/posts/esta-loja-e-um-pwa</loc>
+      <loc>https://ss/posts/esta-loja-e-um-pwa</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://arbinfo.netlify.app/404</loc>
+      <loc>https://ss/404</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://arbinfo.netlify.app/blog</loc>
+      <loc>https://ss/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://arbinfo.netlify.app/</loc>
+      <loc>https://ss/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
     </url>
   
     <url>
-      <loc>https://arbinfo.netlify.app/search</loc>
+      <loc>https://ss/search</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://arbinfo.netlify.app/admin/index</loc>
+      <loc>https://ss/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://arbinfo.netlify.app/app/index</loc>
+      <loc>https://ss/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>

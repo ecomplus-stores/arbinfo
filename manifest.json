@@ -32,6 +32,6 @@
   "display": "standalone",
   "start_url": ".",
   "description": "Loja de tecnologia e informática com diversos artigos eletrônicos para promover o bem estar e proporcionar felicidade!",
-  "background_color": "#ffffff",
-  "theme_color": "#1f1c1c"
+  "background_color": "#cbd813",
+  "theme_color": "#bcb8b8"
 }
