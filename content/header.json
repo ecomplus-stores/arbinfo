@@ -7,7 +7,7 @@
     "pages": [
       {
         "title": "A empresa",
-        "link": "\\sobre-nos"
+        "link": "/pages/sobre-nos"
       }
     ],
     "phone_wpp": true,
