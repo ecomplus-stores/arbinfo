@@ -26,12 +26,12 @@
       "type": "image/png"
     }
   ],
-  "name": "ARB info",
+  "name": "A.R BRAVO COM. E SERV. LTDA ME",
   "short_name": "ARB info",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": ".",
   "description": "Loja de tecnologia e informática com diversos artigos eletrônicos para promover o bem estar e proporcionar felicidade!",
-  "background_color": "#cbd813",
-  "theme_color": "#bcb8b8"
+  "background_color": "#e0e0dc",
+  "theme_color": "#434242"
 }
